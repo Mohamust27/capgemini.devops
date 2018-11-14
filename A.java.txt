@@ -1,0 +1,7 @@
+class A{
+void welcome()
+}
+void add(int a, int y){
+int r = a+b;
+}
+}
