@@ -4,3 +4,11 @@ void welcome()
 
 
 //Working on feature-5
+//Modified
+class A{
+void welcome()
+}
+void add(int a, int y){
+int r = a+b;
+}
+}
